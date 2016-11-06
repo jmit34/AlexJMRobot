@@ -9,10 +9,11 @@
 </ul>
 
 ## Hardware :
-RC cars 1/10 scale wheels and nuts
-axles from scooter (deacthlon) 8mm diameter
-superglue axles with wheels nuts
-Nema17 step motors 
-MP6050 
-Plexiglass (should cut with laser) 
-
+<ul>
+<li>RC cars 1/10 scale wheels and nuts</li>
+<li>axles from scooter (deacthlon) 8mm diameter</li>
+<li>superglue axles with wheels nuts</li>
+<li>Nema17 step motors </li>
+<li>MP6050 </li>
+<li>Plexiglass (should cut with laser)</li> 
+</ul>
